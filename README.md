@@ -1,20 +1,41 @@
 # Heavenly Designs
 
-A visuals and performance plug-in for **LET IT DIE**, built on [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000).
+A visuals and performance plug-in for **LET IT DIE**, built on [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000). Its options are under **Options, then Mod Drive 9000, then Heavenly Designs**. It works in the base game and in POSTMORTEM.
 
-**Quality pack** (applied to your game's settings files by the installer; the originals are backed up):
+## Features
+
+### Quality pack
+Applied to your game's settings files by the installer (the originals are backed up):
 - texture pool 1024 MB;
 - anisotropic filtering on characters and weapons;
 - 2048 shadows;
-- high-precision lighting buffer (no banding in dark scenes).
+- a high-precision lighting buffer (no banding in dark scenes).
 
-**Faster loading:** a map load waits at most 5 s for textures instead of 20 s, and there are fast-loading options.
+### Faster loading
+- A map load waits at most **5 s** for textures instead of 20 s.
+- **Faster loading:** a frame cap during loads, so the loading work gets the time instead of drawing.
+- **Remember missing localization files:** the game stops looking for the same missing files on every load.
+- **Skip package re-verification:** level packages are no longer read twice.
+- **Quick server replies:** menus that talk to the game's offline server open faster.
 
-**Options** (under Options, then Mod Drive 9000, then Heavenly Designs):
-- fast loading;
-- optional skips;
-- atmosphere events;
-- and more.
+### Skips
+- **Skip ride cinematics:** the elevator and escalator rides (not the stepping in and out).
+- **Skip transition summaries:** the summary screen when you take an escalator continues by itself.
+
+### Loot
+- **Instant drops:** a kill drops its reward as the enemy dies, not two seconds later.
+- **Reward pickup:** dropped kill coins and SPIRIT fly to you instead of scattering.
+
+### Atmosphere
+- **Darkness** and **fog**, each 0-100.
+- **Fog colour** (grey, white, green, red, black), a **clear radius** around you, fog that **reacts to movement**, a **fog layer**, and **fog wisps** with a choice of wisp effect.
+- **Flickering lights** and a **lantern** (a light around you).
+- **Film grain** (0-100), **light glow** (bloom, %), **ink outlines**, and a **colour tone** (neutral, cold, sickly, sepia, blood).
+- **Randomized floor atmosphere:** each floor rolls one preset: Clear, Dusk, Morning Mist, Ground Fog, Toxic Haze, Blood Moon, Blackout, Silent Hill or The Abyss.
+- **Atmosphere events from other mods:** POSTMORTEM's depth gloom and floor events (blackouts, fog nights, blood moons) can dress the floor through Heavenly Designs.
+
+### Measuring
+- Load times and the slowest server requests, recorded for anyone who wants to see where the time goes.
 
 ## Install
 
