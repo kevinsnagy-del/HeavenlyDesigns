@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.1
+- Supports the LET IT DIE update of 2026-10-20 (Steam build 25923506).
+
 ## 1.0.0 (first public release)
 - Quality pack: texture pool, anisotropic filtering, 2048 shadows, high-precision G-buffer.
 - 5 s texture-streaming wait on map loads instead of 20 s.
