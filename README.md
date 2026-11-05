@@ -20,8 +20,8 @@ A visuals and performance plug-in for **LET IT DIE**, built on [Mod Drive 9000](
 
 1. Install [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000) first.
 2. Download `HeavenlyDesigns-<version>.zip` from [Releases](../../releases), close the game, and unzip it into the LET IT DIE folder.
-3. Run `ModDriveInstaller\Install.bat` again.
+3. Open `ModDriveInstaller\ModDrive9000.exe` and choose **Apply mods to the game**.
 
-**Updates:** run `ModDriveInstaller\Update.bat`. **Remove:** run `ModDriveInstaller\Remove.bat` and type `heavenly`. The settings files go back to the originals.
+**Updates and removal:** in `ModDriveInstaller\ModDrive9000.exe`, under **Mods**. The settings files go back to the originals.
 
 LET IT DIE belongs to GungHo Online Entertainment / Supertrick Games. This is an unofficial fan project.
