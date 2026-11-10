@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.1
+- **You are invulnerable during a counter** (after a perfect dodge or Perfect Guard): from the warp until the counter attack, the ranged counter or the groggy move ends.
+- **Perfect dodge works against projectiles and explosions** (fireworks, arrows, bullets, rockets): any hit that would land in the first moment of your dodge counts, and the counter goes to whoever fired it.
+- **Lock-on jumps to the next enemy** when the enemy you are locked on to dies (the nearest one you can lock). Releasing the lock yourself still releases it.
+
 ## 1.2.0
 - **New option: Improved defence** (on by default). A **perfect dodge** (an enemy attack that lands in the first moment of your dodge) takes no damage at all and readies a counter; so does a **Perfect Guard**. Attack right after it and you are at that enemy's side: it staggers and your attack hits 1.5x as hard. When the enemy is nearly dead (a quarter of its health or less) and your weapon's mastery has the groggy finisher, the counter is the full groggy move instead.
 - **Counters with a gun, bow or other ranged weapon** do not teleport: you lock on and turn to face the enemy, it staggers, and for as long as you keep firing (up to 2.5 seconds) every shot flies straight at it and does 1.5x -- a slow magnum and an assault rifle get the same boost for the same time.
