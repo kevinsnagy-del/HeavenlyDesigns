@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.2
+- New option: Posture break. Press guard just before a hit to deflect it: no damage, and the enemy is not interrupted, so a whole string can be deflected. Deflects and your hits fill the enemy's posture bar (above its head); a full bar breaks it -- haters are stunned and open to the finisher (no weapon mastery needed), other enemies stagger and take more damage for a moment.
+- Posture break: blocking without deflecting fills your own posture bar (bottom centre); a full bar is a guard break.
+- Posture break: a guard press during an attack's recovery raises the guard as soon as the swing has hit, instead of waiting for the animation.
+- Improved defence: a perfect dodge now also counts against projectiles that fly past you (rockets, bullets), and a projectile guarded at the right moment is a Perfect Guard.
+- The atmosphere census (a research log) is off unless you switch it on. It cost 0.1 to 0.2 s at the start of every level.
+- Co-op: a perfect dodge can no longer ready a counter against a teammate.
+- Improved targeting no longer locks on to enemies behind walls and floors (lock on behind you, the flick to the next target, the jump on a kill).
+- Posture break: a deflect readies the counter, like a Perfect Guard (deflecting a projectile never led into a riposte).
+- Posture break: an enemy's bar disappears the moment it dies, and beasts (frogs, turtles, crabs ...) have no posture bar.
+
 ## 1.2.1
 - **You are invulnerable during a counter** (after a perfect dodge or Perfect Guard): from the warp until the counter attack, the ranged counter or the groggy move ends.
 - **Perfect dodge works against projectiles and explosions** (fireworks, arrows, bullets, rockets): any hit that would land in the first moment of your dodge counts, and the counter goes to whoever fired it.
