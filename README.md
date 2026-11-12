@@ -1,6 +1,6 @@
 # Heavenly Designs
 
-A visuals and performance plug-in for **LET IT DIE**, built on [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000). Its options are under **Options, then Mod Drive 9000, then Heavenly Designs**. It works in the base game and in POSTMORTEM.
+A visuals, performance and combat plug-in for **LET IT DIE**, built on [Mod Drive 9000](https://github.com/kevinsnagy-del/ModDrive9000). Its options are under **Options, then Mod Drive 9000, then Heavenly Designs**. It works in the base game and in POSTMORTEM.
 
 ## Features
 
@@ -25,6 +25,14 @@ Applied to your game's settings files by the installer (the originals are backed
 ### Loot
 - **Instant drops:** a kill drops its reward as the enemy dies, not two seconds later.
 - **Reward pickup:** dropped kill coins and SPIRIT fly to you instead of scattering.
+
+### Combat
+Each is its own switch:
+- **Improved targeting:** the lock-on camera follows the target, and a flick of the right stick (or a mouse swipe) moves the lock to the next enemy. A lock is dropped when the enemy stays behind a wall, and mushroom beasts are not picked.
+- **Improved defence:** a dodge through an attack, or just out of its reach, is a perfect dodge. Attack right after one, or after a Perfect Guard, to counter.
+- **Posture break:** press guard just before a hit to deflect it. Deflects and your own hits fill the enemy's posture bar, and a full bar opens the enemy for a finisher. Blocking without deflecting fills your own bar. Bare fists can guard and deflect too.
+- **Stealth finisher:** behind an unaware enemy, either attack button finishes it with that weapon (replaces the back drop).
+- **Deflect sound** and **Perfect dodge sound:** choose the sound each one plays.
 
 ### Atmosphere
 - **Darkness** and **fog**, each 0-100.
