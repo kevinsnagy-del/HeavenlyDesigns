@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3.0
+- Needs Mod Drive 9000 1.3.8.
+- New option: Stealth finisher (replaces the back drop). Sneak up behind an enemy and finish it with either weapon instead of the piledriver.
+- Posture break: bare fists can guard and deflect armed hits (the game refuses a guard without a weapon).
+- Posture break: a full posture bar now breaks an enemy that is guarding too (it could fill up with no finisher state following).
+- Posture break: a plain block chips the attacker's posture a little (a deflect still fills far more).
+- Improved defence: dodging AWAY from an attack counts as a perfect dodge when the swing would have reached you (it only counted when the hit passed through you).
+- New options: Deflect sound and Perfect dodge sound (pick from the game's own guard sounds; the choice is played when you change it).
+- Lock-on: a lock is released when the enemy stays out of sight behind a wall, and the lock button no longer picks mushroom beasts or enemies behind walls.
+
 ## 1.2.2
 - New option: Posture break. Press guard just before a hit to deflect it: no damage, and the enemy is not interrupted, so a whole string can be deflected. Deflects and your hits fill the enemy's posture bar (above its head); a full bar breaks it -- haters are stunned and open to the finisher (no weapon mastery needed), other enemies stagger and take more damage for a moment.
 - Posture break: blocking without deflecting fills your own posture bar (bottom centre); a full bar is a guard break.
