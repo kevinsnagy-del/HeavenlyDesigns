@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.1
+- Skip ride: the escalator ride is skipped for real now. The escalator's own trigger at the bottom starts the next floor as soon as you step on, instead of riding the whole way down.
+- Skip ride: the elevator ride ends as soon as the next floor is ready, instead of waiting for the voice line at the end.
+- Fixed: a skipped ride could leave the arrival camera somewhere off in the level.
+
 ## 1.3.0
 - Needs Mod Drive 9000 1.3.8.
 - New option: Stealth finisher (replaces the back drop). Sneak up behind an enemy and finish it with either weapon instead of the piledriver.
