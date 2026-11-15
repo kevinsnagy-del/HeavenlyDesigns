@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.2
+- New option: **Guard fatigue.** Holding a guard for a long time makes hits on it cost more posture, and enemies that have blocked for too long stop guarding for a moment. A perfect guard is always safe.
+- New option: **Guard / dodge / jump buttons.** The game's layout, or A jump / X guard / B dodge, or A jump / B guard / X dodge, so guarding and dodging are separate buttons. A only jumps when there is nothing to interact with.
+- Lock-on: switching targets can no longer drop the lock-on. If the new target is gone, the lock goes back to the last target or the nearest one.
+- Co-op: an enemy's posture and posture break are the same for everyone in the party (a groggy enemy is groggy on every screen), and the floor atmosphere matches for everyone.
+
 ## 1.3.1
 - Skip ride: the escalator ride is skipped for real now. The escalator's own trigger at the bottom starts the next floor as soon as you step on, instead of riding the whole way down.
 - Skip ride: the elevator ride ends as soon as the next floor is ready, instead of waiting for the voice line at the end.
