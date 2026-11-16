@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.3
+- New option: **Guard cancels attacks and dodges** (on by default). Pressing guard raises it at once, even in the middle of a swing or a roll, so perfect guards are easier to time. Jump attacks and grabs are never cut.
+- Shots from far away (crossbow bolts and other projectiles) get a slightly longer perfect guard window.
+- With an A-jump button layout, the "dropkick" prompt shows whenever the dropkick is ready.
+
 ## 1.3.2
 - New option: **Guard fatigue.** Holding a guard for a long time makes hits on it cost more posture, and enemies that have blocked for too long stop guarding for a moment. A perfect guard is always safe.
 - New option: **Guard / dodge / jump buttons.** The game's layout, or A jump / X guard / B dodge, or A jump / B guard / X dodge, so guarding and dodging are separate buttons. A only jumps when there is nothing to interact with.
