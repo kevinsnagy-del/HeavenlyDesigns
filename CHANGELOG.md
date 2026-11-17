@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.4
+- For the LET IT DIE update of November 2026 (game 5.0.6). Needs Mod Drive 9000 1.4.4.
+- New option: **Dodge cancels attacks** (on by default). Pressing dodge rolls at once, even in the middle of a swing, so it is easy to react with a dodge. A dodge needs stamina, as always.
+- Posture bars use the game's own health bar art.
+- In co-op, every player's posture is shown over their body (Let Us Die's new option "Posture bars over allies").
+- Fixed: with a remapped guard button, guard cancel read the wrong button (and dodge stopped working on button layout 1).
+
 ## 1.3.3
 - New option: **Guard cancels attacks and dodges** (on by default). Pressing guard raises it at once, even in the middle of a swing or a roll, so perfect guards are easier to time. Jump attacks and grabs are never cut.
 - Shots from far away (crossbow bolts and other projectiles) get a slightly longer perfect guard window.
