@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.6
+- Needs Mod Drive 9000 1.4.5.
+- For other mods: the "blood moon" tone of the atmosphere service tints the picture red through the light curves (the colour tint alone showed nothing in game).
+
 ## 1.3.5
 - **Fixed: unplugging headphones froze the game.** A Windows audio bug (XAudio2) deadlocked the game when the audio device disappeared; the game now carries on.
 - A counter moves your lock-on to the enemy you countered.
