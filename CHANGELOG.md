@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.3.5
+- **Fixed: unplugging headphones froze the game.** A Windows audio bug (XAudio2) deadlocked the game when the audio device disappeared; the game now carries on.
+- A counter moves your lock-on to the enemy you countered.
+- The pause menu stays open during a fight, including its Debug / Mods / Multiplayer screens.
+- With the A-jump button layouts, the dropkick prompt is back and shows the Y button.
+- Button layouts step aside while a menu is open (A no longer jumps in menus).
+- The stealth finisher holds its target.
+- Removed the ride skip (it could hand control back before the elevator had arrived).
+- For other mods: the atmosphere service can now set a colour tone (POSTMORTEM's Blood Moon uses it).
+
 ## 1.3.4
 - For the LET IT DIE update of November 2026 (game 5.0.6). Needs Mod Drive 9000 1.4.4.
 - New option: **Dodge cancels attacks** (on by default). Pressing dodge rolls at once, even in the middle of a swing, so it is easy to react with a dodge. A dodge needs stamina, as always.
