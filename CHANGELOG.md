@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.7
+- **Fixed: a boss finisher froze your fighter.** Bosses are no longer broken into a groggy state they have no finisher for (Jin-Die); they take a stagger and a damage window instead.
+- Your own darkness and fog no longer flicker away for a few seconds when an atmosphere event starts.
+- For POSTMORTEM's Blood Moon: the red tone and a dark red fog show even when other mods' atmosphere is switched off (it warns that the enemies are stronger).
+
 ## 1.3.6
 - Needs Mod Drive 9000 1.4.5.
 - For other mods: the "blood moon" tone of the atmosphere service tints the picture red through the light curves (the colour tint alone showed nothing in game).
