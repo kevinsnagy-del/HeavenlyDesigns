@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.8
+- Needs Mod Drive 9000 1.4.9.
+- **The settings are three pages now:** Atmosphere, Gameplay and Performance.
+- The headphone fix row is gone; the fix always runs.
+- Posture, stealth and defense no longer act on the previous floor's enemies after a ride, and the stealth finisher's hold ends with the floor.
+- Your atmosphere tint applies to the new floor straight away.
+
 ## 1.3.7
 - **Fixed: a boss finisher froze your fighter.** Bosses are no longer broken into a groggy state they have no finisher for (Jin-Die); they take a stagger and a damage window instead.
 - Your own darkness and fog no longer flicker away for a few seconds when an atmosphere event starts.
