@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.0
+- Needs Mod Drive 9000 1.5.0.
+- **Frame-rate cap** (Performance page): game default, 90, 120, 144, 165, 240 or unlimited. Menus keep their normal speed at any frame rate.
+- **Stronger graphics steps:** High shadows are 2048 instead of 1120. Low anti-aliasing is now the best FXAA, and High is MLAA.
+- **Vulkan renderer (DXVK)** as a choice in Mod Drive 9000's Renderer setting. It is downloaded from its authors when you pick it.
+- **Co-op:** a member's posture break no longer staggers an enemy the host drives, so a groggy enemy kneels on every screen.
+
 ## 1.3.8
 - Needs Mod Drive 9000 1.4.9.
 - **The settings are three pages now:** Atmosphere, Gameplay and Performance.
