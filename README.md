@@ -10,6 +10,11 @@ Applied to your game's settings files by the installer (the originals are backed
 - anisotropic filtering on characters and weapons;
 - 2048 shadows;
 - a high-precision lighting buffer (no banding in dark scenes).
+- the in-game graphics steps go further: High shadows 2048 instead of 1120, Low anti-aliasing = the best FXAA, High = MLAA;
+
+### Performance
+- **Frame-rate cap:** game default, 90, 120, 144, 165, 240 or unlimited. Menus keep their normal speed at any frame rate.
+- **Vulkan renderer (DXVK):** a choice in Mod Drive 9000 -> Settings -> Renderer (next to DirectX 9 and 11). It is downloaded from DXVK's own release when you pick it.
 
 ### Faster loading
 - A map load waits at most **5 s** for textures instead of 20 s.
