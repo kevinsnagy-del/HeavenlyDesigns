@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.1
+- **Co-op:** a teammate's perfect-dodge, counter and groggy-move flash shows on their body on your screen.
+
 ## 1.4.0
 - Needs Mod Drive 9000 1.5.0.
 - **Frame-rate cap** (Performance page): game default, 90, 120, 144, 165, 240 or unlimited. Menus keep their normal speed at any frame rate.
